@@ -27,6 +27,10 @@ The data comprises text and image features extracted from Sentence-Transformers 
 | [The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation](https://doi.org/10.1145/3711896.3737088) | Jinfeng Xu, Zheyu Chen, Shuo Yang, Jinze Li, Edith C. H. Ngai | MM | Private |
 | [VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings](https://doi.org/10.1145/3705328.3748064) | Ramin Giahi, Kehui Yao, Sriram Kollipara, Kai Zhao, Vahid Mirjalili, Jianpeng Xu, Topojoy Biswas, Evren Korpeoglu, Kannan Achan | RecSys | Private |
 | [COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation](https://doi.org/10.1145/3726302.3729927) | Jinfeng Xu, Zheyu Chen, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith C. H. Ngai | SIGIR | [GitHub](https://github.com/Jinfeng-Xu/COHESION) |
+| [Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation](https://doi.org/10.1145/3701551.3703561) | Rongqing Kenneth Ong, Andy W. H. Khong | WSDM | [GitHub](https://github.com/kennethorq/SMORE) |
+| [Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations](https://doi.org/10.1145/3696410.3714606) | Jin Li, Shoujin Wang, Qi Zhang, Shui Yu, Fang Chen | WWW | [GitHub](https://github.com/JinLi-i/MoDiCF) |
+| [Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation](https://doi.org/10.1145/3696410.3714676) | Shengzhe Zhang, Liyi Chen, Dazhong Shen, Chao Wang, Hui Xiong | WWW | [GitHub](https://github.com/SStarCCat/HM4SR) |
+| [ModalSync: Synchronizing User Behavior with Multimodal Features for Multimodal Pre-training Recommendationn](https://doi.org/10.1145/3701716.3717553) | Shiqin Liu, Chaozhuo Li, Minjun Zhao, Litian Zhang, Jiajun Bu | WWW | Private |
 
 ## 2024 Year
 
@@ -50,6 +54,11 @@ The data comprises text and image features extracted from Sentence-Transformers 
 | [Beyond Co-occurrence: Multi-modal Session-based Recommendation](https://doi.org/10.1109/TKDE.2023.3309995) |Xiaokun Zhang, Bo Xu, Fenglong Ma, Chenliang Li, Liang Yang, Hongfei Lin | TKDE | [GitHub](https://github.com/Zhang-xiaokun/MMSBR) |
 | [Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability](https://doi.org/10.1109/TMM.2024.3369875) |Xin Zhou, Chunyan Miao | TMM | [GitHub](https://github.com/enoche/DGVAE) |
 | [Variational Mixture of Stochastic Experts Auto-Encoder for Multi-Modal Recommendation](https://doi.org/10.1109/TMM.2024.3384058) | Jing Yi, Zhenzhong Chen | TMM | Private |
+| [Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima](https://doi.org/10.1145/3589334.3645553) |Shanshan Zhong, Zhongzhan Huang, Daifeng Li, Wushao Wen, Jinghui Qin, Liang Lin | WWW | [GitHub](https://github.com/Qrange-group/Mirror-Gradient) |
+| [Multimodal Conditioned Diffusion Model for Recommendation](https://doi.org/10.1145/3589335.3651956) | Haokai Ma, Yimeng Yang, Lei Meng, Ruobing Xie, Xiangxu Meng | WWW | Private |
+| [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://doi.org/10.1145/3589334.3645359) |Wei Wei, Jiabin Tang, Yangqin Jiang, Lianghao Xia, Chao Huang | WWW | [GitHub](https://github.com/HKUDS/PromptMM) |
+| [PMG: Personalized Multimodal Generation with Large Language Models](https://doi.org/10.1145/3589334.3645633) |Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, Jieming Zhu, Xi Xiao | WWW | [GitHub](https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/PMG) |
+| [Improving Item-side Fairness of Multimodal Recommendation via Modality Debiasing](https://doi.org/10.1145/3589334.3648156) |Yu Shang, Chen Gao, Jiansheng Chen, Depeng Jin, Yong Li | WWW | [GitHub](https://github.com/tsinghua-fiblab/WWW2024-Modality-Debiasing) |
 
 ## 2023 Year
 
@@ -57,4 +66,6 @@ The data comprises text and image features extracted from Sentence-Transformers 
 |-------|-----------|-----------|------|
 | [Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](https://doi.org/10.1145/3583780.3614775) | Hengchang Hu, Wei Guo, Yong Liu, Min-Yen Kan | CIKM | [GitHub](https://github.com/HoldenHu/MMSR) |
 | [Multi-modal Mixture of Experts Represetation Learning for Sequential Recommendation](https://doi.org/10.1145/3583780.3614978) | Shuqing Bian, Xingyu Pan, Wayne Xin Zhao, Jinpeng Wang, Chuyuan Wang, Ji-Rong Wen | CIKM | [GitHub](https://github.com/RUCAIBox/M3SRec) |
+| [A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation](https://doi.org/10.1145/3581783.3611943) | Xin Zhou, Zhiqi Shen | MM | [GitHub](https://github.com/enoche/FREEDOM) |
 | [Multimodal Graph Contrastive Learning for Multimedia-Based Recommendation](https://doi.org/10.1109/TMM.2023.3251108) | Kang Liu, Feng Xue, Dan Guo, Peijie Sun, Shengsheng Qian, Richang Hong | TMM | [GitHub](https://github.com/hfutmars/MGCL) |
+| [Bootstrap Latent Representations for Multi-modal Recommendation](https://doi.org/10.1145/3543507.3583251) | Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang | WWW | [GitHub](https://github.com/enoche/BM3) |
