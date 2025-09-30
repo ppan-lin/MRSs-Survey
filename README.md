@@ -3,6 +3,11 @@
 > 
 >This repository presents a comprehensive survey of recent advances in multimodal recommender systems.
 
+## Dataset
+Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG)
+
+The data comprises text and image features extracted from Sentence-Transformers and CNN.
+
 ## 2025 Year
 
 | Title | Author(s) | Source | Code |
