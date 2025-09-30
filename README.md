@@ -12,8 +12,8 @@ The data comprises text and image features extracted from Sentence-Transformers 
 
 | Title | Author(s) | Source | Code |
 |-------|-----------|-----------|------|
-| [Harnessing Multimodal Large Language Models <br> for Multimodal Sequential Recommendation](https://doi.org/10.1609/aaai.v39i12.33426) | Yuyang Ye, Zhi Zheng, Yishan Shen, Tianshu Wang, Hengruo Zhang, Peijun Zhu, Runlong Yu, Kai Zhang, Hui Xiong | AAAI | [GitHub](https://github.com/YuyangYe/MLLM-MSR) |
-| [Modality-Independent Graph Neural Networks with <br> Global Transformers for Multimodal Recommendation](https://doi.org/10.1609/aaai.v39i11.33283) | Jun Hu, Bryan Hooi, Bingsheng He, Yinwei Wei | AAAI | [GitHub](https://github.com/CrawlScript/MIG-GT) |
+| [Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation](https://doi.org/10.1609/aaai.v39i12.33426) | Yuyang Ye, Zhi Zheng, Yishan Shen, Tianshu Wang, Hengruo Zhang, Peijun Zhu, Runlong Yu, Kai Zhang, Hui Xiong | AAAI | [GitHub](https://github.com/YuyangYe/MLLM-MSR) |
+| [Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation](https://doi.org/10.1609/aaai.v39i11.33283) | Jun Hu, Bryan Hooi, Bingsheng He, Yinwei Wei | AAAI | [GitHub](https://github.com/CrawlScript/MIG-GT) |
 | [MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://doi.org/10.1609/aaai.v39i12.33408) | Jinfeng Xu, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Edith C. H. Ngai | AAAI | [GitHub](https://github.com/Jinfeng-Xu/MENTOR) |
 | [DOGE: LLMs-Enhanced Hyper-Knowledge Graph Recommender for Multimodal Recommendation](https://doi.org/10.1609/aaai.v39i12.33351) | Fanshen Meng, Zhenhua Meng, Ru Jin, Rongheng Lin, Budan Wu | AAAI | Private |
 | [Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs](https://doi.org/10.1609/aaai.v39i11.33285) | Junjie Huang, Jiarui Qin, Yong Yu, Weinan Zhang | AAAI | Private |
